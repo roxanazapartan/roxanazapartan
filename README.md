@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roxanazapartan
+- 👋 Hi, I’m @roxanabarna
 - 👀 I’m interested in Software testing
 - 🌱 I’m currently looking for a new opportunity to elevate my career in Software Testing.
 - 💞️ I’m looking to collaborate on Software Testing projects and learning further automation in Software testing.
